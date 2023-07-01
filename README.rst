@@ -90,4 +90,4 @@ firmata:
 
 - Pin State Query, which allows it to populate on-screen controls with an
   accurate representation of the hardware's configuration
-  (http://firmata.org/wiki/Proposals#Pin_State_Query_.28added_in_version_2.2.29)
+  (http://firmata.org/wiki/Proposals#Pin_State_Query_.28added_in_version_2.2.29).
